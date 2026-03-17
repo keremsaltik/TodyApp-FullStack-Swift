@@ -1,0 +1,30 @@
+# --- Swift / Xcode ---
+xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcshareddata/xcschemes/
+*.xcworkspace/xcuserdata/
+
+# Compile Debugs
+.build/
+DerivedData/
+Build/
+Products/
+
+# --- Vapor / Server-side ---
+# Vapor Environments
+.env
+.env.*
+!.env.example
+!.env.testing
+
+# --- macOS Sistem Dosyaları ---
+.DS_Store
+*.swp
+lock/
+
+# --- Package Managers ---
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.swiftpm/configuration/
+
+# --- Dependency Managers ---
+Pods/
