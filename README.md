@@ -2,6 +2,8 @@
 
 Hello! This is **Todyapp**, a complete task management system I built using **Swift** for both Backend and Frontend. 
 
+**Design inspiration:** https://www.figma.com/design/UJUFP9MIpkmXmRVXV9ixlB/Todyapp---Todo-list-mobile-app--Community-?node-id=582-5288&t=QJwbU66X3F1yhRxD-0
+
 ### 🛠 Technologies Used
 
 **Backend (Vapor Framework):**
@@ -26,3 +28,4 @@ Hello! This is **Todyapp**, a complete task management system I built using **Sw
 
 ---
 Built with passion by **Kerem Saltık**.
+
