@@ -25,4 +25,4 @@ Hello! This is **Todyapp**, a complete task management system I built using **Sw
 - **Modern UX:** Smooth transitions, adaptive UI, and onboarding screens.
 
 ---
-Built with passion by **Kerem Saltık**. Feedback is always welcome!
+Built with passion by **Kerem Saltık**.
